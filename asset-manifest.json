@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/agecal/static/css/main.073c9b0a.css",
+    "main.js": "/agecal/static/js/main.6b5b6df9.js",
+    "static/js/787.4cfb9684.chunk.js": "/agecal/static/js/787.4cfb9684.chunk.js",
+    "static/media/logo.svg": "/agecal/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/agecal/index.html",
+    "main.073c9b0a.css.map": "/agecal/static/css/main.073c9b0a.css.map",
+    "main.6b5b6df9.js.map": "/agecal/static/js/main.6b5b6df9.js.map",
+    "787.4cfb9684.chunk.js.map": "/agecal/static/js/787.4cfb9684.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6b5b6df9.js"
+  ]
+}
